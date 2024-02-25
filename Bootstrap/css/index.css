@@ -1,0 +1,12 @@
+.content{
+    width: 100%;
+    padding-top: 100px;
+    padding-left: 20px;
+    padding-bottom: 90px;
+    padding-right: 20px;
+
+}
+h1,p,hr{
+    margin-bottom: 15px;
+    padding-right: 10px;
+}
